@@ -56,12 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=adheir01&theme=onedark&no-frame=true&margin-w=8)
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-a-k-01/)
