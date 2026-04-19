@@ -2,7 +2,7 @@
 
 🎯 **Senior Data Analyst** — building end-to-end analytical solutions from Python pipelines and ETL workflows to Power BI dashboards and KPI frameworks. Based in Hamburg 🇩🇪
 
-5 years at [Statista](https://statista.com) working on global mobility & energy market intelligence across 190+ markets. I enjoy turning messy, real-world data into clean decisions.
+5 years at [Statista](https://statista.com) working on global automotive & mobility market intelligence across 190+ markets. I enjoy turning messy, real-world data into clean decisions.
 
 💬 Ask me about **data pipelines, Power BI, Python automation, AI tooling, and energy markets**
 
@@ -67,9 +67,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-a-k-01/)
 
 ---
-
-## 📜 Certifications
-
-- 🎓 DataCamp – Data Engineer Associate (2025)
-- ☁️ AWS SimuLearn – Data Analytics *(In Progress, 2025)*
-- 📊 Udemy – Data Analytics on AWS (2024)
