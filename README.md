@@ -56,6 +56,15 @@
 
 ---
 
+## 🚀 Currently building
+
+| Project | Stack | Status |
+|---|---|---|
+| [Instagram Fake Follower Detector](https://github.com/adheir01/instagram-fake-detector) | Python · XGBoost · Docker · Apify · Gemini | ✅ Live |
+| Influencer ROI Scorer | Python · dbt · PostgreSQL · Streamlit | 🔨 In progress |
+
+---
+
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobi-a-k-01/)
