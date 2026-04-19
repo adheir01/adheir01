@@ -4,7 +4,7 @@
 
 5 years at [Statista](https://statista.com) working on global automotive & mobility market intelligence across 190+ markets. I enjoy turning messy, real-world data into clean decisions.
 
-💬 Ask me about **data pipelines, Power BI, Python automation, AI tooling, and energy markets**
+💬 Ask me about **data pipelines, Power BI, Python automation, AI tooling, Automotive & mobility markets**
 
 ---
 
