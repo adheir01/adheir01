@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Tobi
 
-🎯 **Senior Data Analyst** — building end-to-end analytical solutions from Python pipelines and ETL workflows to Power BI dashboards and KPI frameworks. Based in Hamburg 🇩🇪
+🎯 **Senior Data Analyst** — building end-to-end analytical solutions from Python pipelines and ETL workflows to dashboards and KPI frameworks. Based in Hamburg 🇩🇪
 
 5 years at [Statista](https://statista.com) working on global automotive & mobility market intelligence across 190+ markets. I enjoy turning messy, real-world data into clean decisions.
 
-💬 Ask me about **data pipelines, Power BI, Python automation, AI tooling, Automotive & mobility markets**
+💬 Ask me about **data pipelines, Insights derivation, Dashboards, Python automation, AI tooling, Automotive & mobility markets**
 
 ---
 
