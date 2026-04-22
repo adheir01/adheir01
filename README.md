@@ -61,7 +61,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | [Instagram Fake Follower Detector](https://github.com/adheir01/instagram-fake-detector) | Python · XGBoost · Docker · Apify · Gemini | ✅ Live |
-| Influencer ROI Scorer | Python · dbt · PostgreSQL · Streamlit | 🔨 In progress |
+| Influencer ROI Scorer | Python · dbt · PostgreSQL · Streamlit · Metabase | 🔨 In progress |
 
 ---
 
